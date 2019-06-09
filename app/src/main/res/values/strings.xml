@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contactly</string>
+    <string name="first_name">First Name</string>
+    <string name="type_something_here">Type something here</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="max"><![CDATA[Max 10 Digit & Only Numbers]]></string>
+    <string name="no_null">Can not be null</string>
+</resources>
