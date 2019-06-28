@@ -25,10 +25,8 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity  {
 
     public static String BASE_URL= "https://api.twilio.com/2010-04-01/";
-
-
- 
-
+    
+    //Please make sure you have using API key's
 
     private Context context;
     public static AppDatabase appDatabase;
