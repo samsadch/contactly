@@ -27,8 +27,7 @@ public class MainActivity extends AppCompatActivity  {
     public static String BASE_URL= "https://api.twilio.com/2010-04-01/";
 
 
-    public static final String ACCOUNT_SID = "AC7fa200b072480a9f1c17d4d8d25b9995";
-    public static final String AUTH_TOKEN = "09e4859b1b6184c9df4e4e42ee83cff1";
+ 
 
 
     private Context context;
